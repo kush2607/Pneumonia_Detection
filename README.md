@@ -1,0 +1,1 @@
+PNEUMONIA DETECTION using CNN (VGG-19 model)
